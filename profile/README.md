@@ -4,7 +4,8 @@
 
 ### Service Architecture
 
-<img width="824" alt="스크린샷 2023-11-19 오전 2 41 50" src="https://github.com/Innothink-Make-A-Thon/.github/assets/91695537/8ab7263d-1a20-4310-a70f-b4f3f92d28cb">
+<img width="777" alt="스크린샷 2023-11-19 오전 2 55 29" src="https://github.com/Innothink-Make-A-Thon/.github/assets/91695537/95119fd0-b976-461e-b39b-aa55904e1a6e">
+
 
 
 <!--
